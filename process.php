@@ -24,7 +24,7 @@ if (empty($_POST["user"]) || empty($_POST["pwd"])) {
 
     } else {
         $alert_type = "alert";
-        $massage = "Loging Faild. ❌";
+        $massage = "Loging Failed. ❌";
     }
 }
 
